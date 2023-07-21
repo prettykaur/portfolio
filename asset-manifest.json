@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5b8bf3ce.css",
+    "main.js": "/portfolio/static/js/main.63fc57f0.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/quantumquiz.png": "/portfolio/static/media/quantumquiz.3d0826add92998d748eb.png",
+    "static/media/sudoku.png": "/portfolio/static/media/sudoku.8b6f9b4758e033754380.png",
+    "static/media/makanwhere.png": "/portfolio/static/media/makanwhere.b2f29886d9535d830674.png",
+    "static/media/bbb.png": "/portfolio/static/media/bbb.be77f5e88306dcd5bec1.png",
+    "index.html": "/portfolio/index.html",
+    "main.5b8bf3ce.css.map": "/portfolio/static/css/main.5b8bf3ce.css.map",
+    "main.63fc57f0.js.map": "/portfolio/static/js/main.63fc57f0.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8bf3ce.css",
+    "static/js/main.63fc57f0.js"
+  ]
+}
