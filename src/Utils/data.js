@@ -11,8 +11,8 @@ export const projects = [
     image: makanwhereImg,
     link: "https://makan-where-app.web.app/",
     repos: {
-      frontend: "",
-      backend: "",
+      frontend: "https://github.com/prettykaur/makan-where-frontend",
+      backend: "https://github.com/prettykaur/makan-where-backend",
     },
     features: [
       "Secure user authentication using JWTs",
@@ -72,7 +72,7 @@ export const projects = [
     subtitle: "React and Firebase",
     description: "Interactive trivia games with friends",
     image: quantumquizImg,
-    link: "",
+    link: "https://trivia-7c009.web.app",
     repos: {
       frontend: "https://github.com/prettykaur/trivia",
     },

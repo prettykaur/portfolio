@@ -33,7 +33,12 @@ function Modal({ project, closeModal }) {
 
         <div className="modal-body">
           <div className="modal-btns">
-            <a className="nav-btns" href={project.link}>
+            <a
+              className="nav-btns"
+              href={project.link}
+              target="_blank"
+              rel="noreferrer"
+            >
               View App
             </a>
             {project.repos.frontend && (
@@ -49,7 +54,12 @@ function Modal({ project, closeModal }) {
               </a>
             )}
             {project.repos.backend && (
-              <a href={project.repos.backend} className="nav-btns">
+              <a
+                href={project.repos.backend}
+                className="nav-btns"
+                target="_blank"
+                rel="noreferrer"
+              >
                 Backend Repo
               </a>
             )}
